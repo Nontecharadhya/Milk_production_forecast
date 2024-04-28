@@ -5,8 +5,11 @@ This GitHub repository contains code and resources for forecasting monthly milk 
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
 Data/: Contains the dataset used for training and testing the ARIMA model.
+
 Notebooks/: Jupyter notebooks containing the data preprocessing, model training, and evaluation steps.
+
 Src/: Source code files for the ARIMA model implementation.
+
 Results/: Contains the results of the ARIMA model forecasting.
 
 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐧𝐠
